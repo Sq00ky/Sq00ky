@@ -1,6 +1,6 @@
 ### Hi There 👋
 I'm Ronnie, a south-east based red teamer & pentester @ ``[REDACTED]``. Currently, I work in the F500 Critical Infrastructure space help keeping $bigPowerCos secure. I don't write code very often, but when I do, [it lives here](https://github.com/Sq00ky?tab=repositories)
-I have participated in a number of CTFs and Cyber Defense Exercises, below you can find some of them! For more info about me and the things I do - [visit my website!](https://blog.spookysec.net/posts/). 
+I have participated in a number of CTFs and Cyber Defense Exercises, below you can find some of them! For more info about me and the things I do - [visit my website!](https://blog.spookysec.net/posts/)
 
 ### Participation in Industry Cyber Defense Exercises
 - Department of Energy - [Liberty Eclipse 2025](https://www.energy.gov/ceser/liberty-eclipse)
