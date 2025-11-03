@@ -9,7 +9,7 @@ I have participated in a number of CTFs and Cyber Defense Exercises, below you c
 
 ### CTFs
 - 2025 NCL Fall Individual Game #77
-- Optiv Source Zero Con CTF 2022 & 2023 #1
-- CISA 2024 ICS CTF #51
-- DEFCON 29 - Red Team Village CTF #10
+- 2024 CISA ICS CTF #51
+- 2022 & 2023 Optiv Source Zero Con CTF #1
+- 2021 Red Team Village CTF #10
 - 2020 NCL Spring Team Game #79
