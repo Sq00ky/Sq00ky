@@ -1,6 +1,6 @@
 ### Hi There 👋
-I'm Ronnie, a south-east based red teamer & pentester @ ``[REDACTED]``. Currently, I work in the F500 Critical Infrastructure space help keeping $bigPowerCos secure. I don't write code very often, but when I do, [it lives here](https://github.com/Sq00ky?tab=repositories)
-I have participated in a number of CTFs and Cyber Defense Exercises, below you can find some of them! For more info about me and the things I do - [visit my website!](https://blog.spookysec.net/posts/)
+I'm Ronnie, a south-east based red teamer & pentester @ ``[REDACTED]``. I've been working in the industry for over 6 years now. Currently, I work in the F500 Critical Infrastructure space help keeping $bigPowerCos secure. I don't write code very often, but when I do, [it lives here](https://github.com/Sq00ky?tab=repositories)
+I have participated in a number of CTFs and Cyber Defense Exercises, below you can find some of them! For more info about me and the things I do - [visit my website!](https://blog.spookysec.net/posts/). Occasionally I post research, CTF Writeups and other fun stuff there. Check it out!
 
 ### Participation in Industry Cyber Defense Exercises
 - Department of Energy - [Liberty Eclipse 2025](https://www.energy.gov/ceser/liberty-eclipse)
@@ -8,6 +8,7 @@ I have participated in a number of CTFs and Cyber Defense Exercises, below you c
 - Idaho National Labs: ICS 301 Red - Blue
 
 ### CTFs
+- 2025 NCL Fall Team Game #53
 - 2025 NCL Fall Individual Game #77
 - 2024 CISA ICS CTF #51
 - 2022 & 2023 Optiv Source Zero Con CTF #1
